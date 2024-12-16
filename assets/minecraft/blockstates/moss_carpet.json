@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/moss_carpet_overhang"},
+            { "model": "block/moss_carpet_overhang", "y": 90},
+            { "model": "block/moss_carpet_overhang", "y": 180},
+            { "model": "block/moss_carpet_overhang", "y": 270}
+        ]
+    }
+}
